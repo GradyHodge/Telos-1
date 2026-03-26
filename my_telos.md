@@ -77,12 +77,33 @@ Other sections that aren't those core sections are additional context to support
   - This system creates a natural addiction to discipline toward our new behavior by preventing my mind's resistance to behavior not in line with my current identity. At the same time new behavior becomes adopted by the mind and then enforced by it's identity protection defense''
 
 ## PURPOSE DRIVEN LIFE
+- My five pillars of purpose are based on the 5 groups of people in my life and how I add value to the greatest struggle and needs of each set of people.
 
 - PDL1:
+    - group: Heaven
+    - problems/needs: find the true nature of God and the miracle of the atonement of Jesus Christ. Temple worker. people need hope, love, kindness, and encouragement.
+    - my value/solutions: 
+    - PURPOSE STATEMENT:
 - PDL2:
+    - group: Family
+    - problems/needs: a worthy priesthood leader to provide, preside, and protect
+    - my value/solutions:
+        - PURPOSE STATEMENT:
 - PDL3:
+    - group: Work
+    - problems/needs: create eudaimonia, 
+    - my value/solutions: I build safe environments of trust. I am kind, patient, and professional and have a healthy assertive communication style.
+        - PURPOSE STATEMENT:
 - PDL4:
+    - group: Friends
+    - problems/needs: someone to be there for you at your worst time, to help you in projects too big to take on your own. someone to laugh with and share in the simple joys of life. Another home to visit and share food and fun.
+    - my value/solutions:
+        - PURPOSE STATEMENT:
 - PDL5:
+    - group: Community
+    - problems/needs:
+    - my value/solutions:
+    - PURPOSE STATEMENT:
 
 ## HISTORY
 
